@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on a freelance idea;<br>🌱 I’m currently learning Front-end with React;<br>👯 I’m looking to collaborate on projects related to .NET or React;<br>🤔 I’m looking for partners. It is certainly easier and more enjoyable learning something new with a partner;<br>💬 Ask me about anything, and then I'll ask back. I like meeting new people and creating genuine partnerships;<br>⚡ Fun fact: no funny business, we have work to do;
+🔭 I’m currently working on a freelance idea;<br>🌱 I’m currently learning ASP.Net Core Microservices;<br>👯 I’m looking to collaborate on projects related to .NET or React;<br>🤔 I’m looking for partners. It is certainly easier and more enjoyable learning something new with a partner;<br>💬 Ask me about anything, and then I'll ask back. I like meeting new people and creating genuine partnerships;<br>⚡ Fun fact: no funny business, we have work to do;
+
+# You can find more information about me on ![My Portfolio](https://portfolio-6adb8.web.app/)! I strongly encourage you to check it out, if you have any interest in working/collaborating with me!
 
 
 ## 🌐 Socials:
